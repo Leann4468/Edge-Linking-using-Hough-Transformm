@@ -1,4 +1,4 @@
-## Edge-Linking-using-Hough-Transformm
+## Ex 07 Edge-Linking-using-Hough-Transformm
 ### Aim:
 To write a Python program to detect the lines using Hough Transform.
 
@@ -47,9 +47,9 @@ plt.title("Gray Image")
 plt.axis("off")
 plt.show()
 ```
-![image](https://github.com/Yogeshvar005/Edge-Linking-using-Hough-Transformm/assets/113497367/bf8edf52-4bef-4e82-b0a3-38088c97ddb3)            
-![image](https://github.com/Yogeshvar005/Edge-Linking-using-Hough-Transformm/assets/113497367/621407fa-ecba-4e37-b250-17cb2cdc7f0a)
-
+![image](https://github.com/Leann4468/Edge-Linking-using-Hough-Transformm/assets/121165979/68f82a92-0bd0-4f10-a21f-40f4b9e26018)
+            
+![image](https://github.com/Leann4468/Edge-Linking-using-Hough-Transformm/assets/121165979/15f843ae-33dd-4015-bc7a-4dd6c9727dc9)
 
 #### Find the edges in the image using canny detector and display
 ```python
@@ -59,9 +59,9 @@ plt.title("Canny Edge Detector")
 plt.axis("off")
 plt.show()
 ```
-![image](https://github.com/Yogeshvar005/Edge-Linking-using-Hough-Transformm/assets/113497367/4b6ca26a-0df1-4551-800e-9c0dfc9a0e5a)
-![image](https://github.com/Yogeshvar005/Edge-Linking-using-Hough-Transformm/assets/113497367/a4adfd5e-bf0e-4365-a074-9a3ef783c52a)
+![image](https://github.com/Leann4468/Edge-Linking-using-Hough-Transformm/assets/121165979/dc4f7018-f101-479d-bbdc-8eaf6572cc31)
 
+![image](https://github.com/Leann4468/Edge-Linking-using-Hough-Transformm/assets/121165979/6e9dd795-a2ab-4c54-920a-1efc7a94eed6)
 
 #### Detect points that form a line using HoughLinesP
 ```python
@@ -84,8 +84,10 @@ plt.title("Result Image")
 plt.axis("off")
 plt.show()
 ```
-![image](https://github.com/Yogeshvar005/Edge-Linking-using-Hough-Transformm/assets/113497367/451bdf4f-7158-406b-ab6c-42a2ccce063a)    
-![image](https://github.com/Yogeshvar005/Edge-Linking-using-Hough-Transformm/assets/113497367/c4f459c2-0b09-44d0-a208-104a2e3a9b84)
+![image](https://github.com/Yogeshvar005/Edge-Linking-using-Hough-Transformm/assets/113497367/451bdf4f-7158-406b-ab6c-42a2ccce063a)  
+
+![image](https://github.com/Leann4468/Edge-Linking-using-Hough-Transformm/assets/121165979/aca1005e-da64-4f78-8fac-b24771012c30)
+
 
 ### Result:
 Thus the program is written with python and OpenCV to detect lines using Hough transform.
